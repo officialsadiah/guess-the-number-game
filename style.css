@@ -1,15 +1,29 @@
-.headingOne{
-    background: green;
-    color: white;
-    display: flex;
 
-}
+
 .box{
 
     width: 320px;
     height: 320px;
     background: darkblue;
-    padding: 20px 50px;
+
+
+    display: flex;
+   flex-direction:column;
+
+   justify-content: center;
+   align-items: center;  /* left right */
+
+   border-radius: 20%;
+   border: 1px solid black;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.3);
    
-    /* justify-content: center; */
+}
+.headingOne{
+    background: green;
+    color: white;
+    padding: 5px 5px;
+}
+
+.inputOne{
+margin-bottom: 10px;
 }
