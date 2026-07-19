@@ -22,4 +22,4 @@ else if(inputOne.value>10 || inputOne.value<1){
 else{
     erroeOne.innerHTML = "game started"
 }
-})
+}) 
