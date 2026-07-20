@@ -46,6 +46,14 @@ margin-bottom: 10px;
     
 }
 
-/* .headingTwo , .inputTwo , .buttonTwo , .erroeOneTwo{
-    display: none;
-} */
+.headingTwo{
+    background: rgb(85, 15, 64);
+    color: white;
+    padding: 5px 5px;
+   
+}
+
+.inputTwo{
+margin-bottom: 10px;
+
+}
